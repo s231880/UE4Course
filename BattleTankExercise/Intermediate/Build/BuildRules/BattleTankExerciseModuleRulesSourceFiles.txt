@@ -1,0 +1,3 @@
+C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Source\BattleTankExercise\BattleTankExercise.Build.cs
+C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Source\BattleTankExercise.Target.cs
+C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Source\BattleTankExerciseEditor.Target.cs

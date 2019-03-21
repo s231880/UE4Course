@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleTankExercise.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Intermediate\Build\Win64\BattleTankExerciseEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Intermediate\Build\Win64\UE4Editor\Development\BattleTankExercise\BattleTankExercise.cpp.obj"
+"C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Intermediate\Build\Win64\UE4Editor\Development\BattleTankExercise\BattleTankExerciseGameModeBase.cpp.obj"
+"C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Intermediate\Build\Win64\UE4Editor\Development\BattleTankExercise\BattleTankExercise.init.gen.cpp.obj"
+"C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Intermediate\Build\Win64\UE4Editor\Development\BattleTankExercise\BattleTankExerciseGameModeBase.gen.cpp.obj"
+"C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Intermediate\Build\Win64\UE4Editor\Development\BattleTankExercise\PCLaunch.rc.res"
+/OUT:"C:\Users\Tiziano\Documents\GitHub\BattleTankExercise\Intermediate\Build\Win64\UE4Editor\Development\BattleTankExercise\UE4Editor-BattleTankExercise.lib"
